@@ -1,0 +1,7 @@
+Perfis de usuários:
+Administrador do Sistema (responsável por dar manutenção/suporte nos sistemas)
+Usuário comum (Usuário utilizador direto das aplicações)
+
+Aplicativos:
+Lotus Notes (servidor de e-mail)
+LDAP (servidor de autenticação)
